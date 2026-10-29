@@ -1,0 +1,4005 @@
+{
+ "name": "Spanish: 1000 common words",
+ "cards": [
+  {
+   "front": "el",
+   "back": "the (m)"
+  },
+  {
+   "front": "la",
+   "back": "the (f)"
+  },
+  {
+   "front": "de",
+   "back": "of / from"
+  },
+  {
+   "front": "que",
+   "back": "that / what"
+  },
+  {
+   "front": "y",
+   "back": "and"
+  },
+  {
+   "front": "a",
+   "back": "to / at"
+  },
+  {
+   "front": "en",
+   "back": "in / on"
+  },
+  {
+   "front": "un",
+   "back": "a (m)"
+  },
+  {
+   "front": "ser",
+   "back": "to be (permanent)"
+  },
+  {
+   "front": "se",
+   "back": "oneself / himself / herself"
+  },
+  {
+   "front": "no",
+   "back": "no / not"
+  },
+  {
+   "front": "haber",
+   "back": "to have (auxiliary) / there to be"
+  },
+  {
+   "front": "por",
+   "back": "for / by / through"
+  },
+  {
+   "front": "con",
+   "back": "with"
+  },
+  {
+   "front": "su",
+   "back": "his / her / their"
+  },
+  {
+   "front": "para",
+   "back": "for / in order to"
+  },
+  {
+   "front": "es",
+   "back": "is"
+  },
+  {
+   "front": "al",
+   "back": "to the"
+  },
+  {
+   "front": "lo",
+   "back": "it / the"
+  },
+  {
+   "front": "como",
+   "back": "like / as / how"
+  },
+  {
+   "front": "más",
+   "back": "more"
+  },
+  {
+   "front": "o",
+   "back": "or"
+  },
+  {
+   "front": "pero",
+   "back": "but"
+  },
+  {
+   "front": "sus",
+   "back": "his / her / their (pl)"
+  },
+  {
+   "front": "le",
+   "back": "him / her / to him / to her"
+  },
+  {
+   "front": "ha",
+   "back": "has"
+  },
+  {
+   "front": "me",
+   "back": "me / to me"
+  },
+  {
+   "front": "si",
+   "back": "if / whether"
+  },
+  {
+   "front": "sin",
+   "back": "without"
+  },
+  {
+   "front": "sobre",
+   "back": "about / over"
+  },
+  {
+   "front": "este",
+   "back": "this (m)"
+  },
+  {
+   "front": "ya",
+   "back": "already / now"
+  },
+  {
+   "front": "entre",
+   "back": "between / among"
+  },
+  {
+   "front": "cuando",
+   "back": "when"
+  },
+  {
+   "front": "todo",
+   "back": "all / everything"
+  },
+  {
+   "front": "esta",
+   "back": "this (f)"
+  },
+  {
+   "front": "son",
+   "back": "they are"
+  },
+  {
+   "front": "dos",
+   "back": "two"
+  },
+  {
+   "front": "también",
+   "back": "also / too"
+  },
+  {
+   "front": "fue",
+   "back": "was"
+  },
+  {
+   "front": "había",
+   "back": "there was / had"
+  },
+  {
+   "front": "era",
+   "back": "was"
+  },
+  {
+   "front": "muy",
+   "back": "very"
+  },
+  {
+   "front": "años",
+   "back": "years"
+  },
+  {
+   "front": "hasta",
+   "back": "until / up to"
+  },
+  {
+   "front": "desde",
+   "back": "since / from"
+  },
+  {
+   "front": "está",
+   "back": "is (location/state)"
+  },
+  {
+   "front": "mi",
+   "back": "my"
+  },
+  {
+   "front": "porque",
+   "back": "because"
+  },
+  {
+   "front": "qué",
+   "back": "what"
+  },
+  {
+   "front": "sólo",
+   "back": "only"
+  },
+  {
+   "front": "han",
+   "back": "have (they)"
+  },
+  {
+   "front": "yo",
+   "back": "I"
+  },
+  {
+   "front": "hay",
+   "back": "there is / there are"
+  },
+  {
+   "front": "vez",
+   "back": "time / occasion"
+  },
+  {
+   "front": "puede",
+   "back": "can (he/she)"
+  },
+  {
+   "front": "todos",
+   "back": "all / everyone"
+  },
+  {
+   "front": "así",
+   "back": "like this / thus"
+  },
+  {
+   "front": "nos",
+   "back": "us / to us"
+  },
+  {
+   "front": "ni",
+   "back": "neither / nor"
+  },
+  {
+   "front": "parte",
+   "back": "part"
+  },
+  {
+   "front": "tiene",
+   "back": "has"
+  },
+  {
+   "front": "él",
+   "back": "he"
+  },
+  {
+   "front": "uno",
+   "back": "one"
+  },
+  {
+   "front": "donde",
+   "back": "where"
+  },
+  {
+   "front": "bien",
+   "back": "well / good"
+  },
+  {
+   "front": "tiempo",
+   "back": "time / weather"
+  },
+  {
+   "front": "mismo",
+   "back": "same"
+  },
+  {
+   "front": "ese",
+   "back": "that (m)"
+  },
+  {
+   "front": "ahora",
+   "back": "now"
+  },
+  {
+   "front": "cada",
+   "back": "each / every"
+  },
+  {
+   "front": "e",
+   "back": "and (before i-)"
+  },
+  {
+   "front": "vida",
+   "back": "life"
+  },
+  {
+   "front": "otro",
+   "back": "other / another"
+  },
+  {
+   "front": "después",
+   "back": "after / afterwards"
+  },
+  {
+   "front": "te",
+   "back": "you / to you"
+  },
+  {
+   "front": "otros",
+   "back": "others"
+  },
+  {
+   "front": "aunque",
+   "back": "although"
+  },
+  {
+   "front": "esa",
+   "back": "that (f)"
+  },
+  {
+   "front": "eso",
+   "back": "that (neuter)"
+  },
+  {
+   "front": "hace",
+   "back": "makes / ago"
+  },
+  {
+   "front": "otra",
+   "back": "other (f)"
+  },
+  {
+   "front": "gobierno",
+   "back": "government"
+  },
+  {
+   "front": "tan",
+   "back": "so / as"
+  },
+  {
+   "front": "durante",
+   "back": "during"
+  },
+  {
+   "front": "siempre",
+   "back": "always"
+  },
+  {
+   "front": "día",
+   "back": "day"
+  },
+  {
+   "front": "tanto",
+   "back": "so much"
+  },
+  {
+   "front": "ella",
+   "back": "she"
+  },
+  {
+   "front": "tres",
+   "back": "three"
+  },
+  {
+   "front": "sí",
+   "back": "yes"
+  },
+  {
+   "front": "dijo",
+   "back": "said"
+  },
+  {
+   "front": "sido",
+   "back": "been"
+  },
+  {
+   "front": "gran",
+   "back": "great / big"
+  },
+  {
+   "front": "país",
+   "back": "country"
+  },
+  {
+   "front": "según",
+   "back": "according to"
+  },
+  {
+   "front": "menos",
+   "back": "less / minus"
+  },
+  {
+   "front": "mundo",
+   "back": "world"
+  },
+  {
+   "front": "año",
+   "back": "year"
+  },
+  {
+   "front": "antes",
+   "back": "before"
+  },
+  {
+   "front": "estado",
+   "back": "state / been"
+  },
+  {
+   "front": "contra",
+   "back": "against"
+  },
+  {
+   "front": "sino",
+   "back": "but rather"
+  },
+  {
+   "front": "forma",
+   "back": "form / way"
+  },
+  {
+   "front": "caso",
+   "back": "case"
+  },
+  {
+   "front": "nada",
+   "back": "nothing"
+  },
+  {
+   "front": "hacer",
+   "back": "to do / to make"
+  },
+  {
+   "front": "general",
+   "back": "general"
+  },
+  {
+   "front": "estar",
+   "back": "to be (location/state)"
+  },
+  {
+   "front": "poder",
+   "back": "to be able / power"
+  },
+  {
+   "front": "decir",
+   "back": "to say / to tell"
+  },
+  {
+   "front": "ir",
+   "back": "to go"
+  },
+  {
+   "front": "ver",
+   "back": "to see"
+  },
+  {
+   "front": "dar",
+   "back": "to give"
+  },
+  {
+   "front": "saber",
+   "back": "to know (facts)"
+  },
+  {
+   "front": "querer",
+   "back": "to want / to love"
+  },
+  {
+   "front": "llegar",
+   "back": "to arrive"
+  },
+  {
+   "front": "pasar",
+   "back": "to pass / to happen"
+  },
+  {
+   "front": "deber",
+   "back": "to owe / must"
+  },
+  {
+   "front": "poner",
+   "back": "to put"
+  },
+  {
+   "front": "parecer",
+   "back": "to seem"
+  },
+  {
+   "front": "quedar",
+   "back": "to remain / to stay"
+  },
+  {
+   "front": "creer",
+   "back": "to believe"
+  },
+  {
+   "front": "hablar",
+   "back": "to speak"
+  },
+  {
+   "front": "llevar",
+   "back": "to carry / to wear"
+  },
+  {
+   "front": "dejar",
+   "back": "to leave / to let"
+  },
+  {
+   "front": "seguir",
+   "back": "to follow / to continue"
+  },
+  {
+   "front": "encontrar",
+   "back": "to find"
+  },
+  {
+   "front": "llamar",
+   "back": "to call"
+  },
+  {
+   "front": "venir",
+   "back": "to come"
+  },
+  {
+   "front": "pensar",
+   "back": "to think"
+  },
+  {
+   "front": "salir",
+   "back": "to go out / to leave"
+  },
+  {
+   "front": "volver",
+   "back": "to return"
+  },
+  {
+   "front": "tomar",
+   "back": "to take / to drink"
+  },
+  {
+   "front": "conocer",
+   "back": "to know (people/places)"
+  },
+  {
+   "front": "vivir",
+   "back": "to live"
+  },
+  {
+   "front": "sentir",
+   "back": "to feel"
+  },
+  {
+   "front": "tratar",
+   "back": "to try / to treat"
+  },
+  {
+   "front": "mirar",
+   "back": "to look at"
+  },
+  {
+   "front": "contar",
+   "back": "to count / to tell"
+  },
+  {
+   "front": "empezar",
+   "back": "to begin"
+  },
+  {
+   "front": "esperar",
+   "back": "to wait / to hope"
+  },
+  {
+   "front": "buscar",
+   "back": "to look for"
+  },
+  {
+   "front": "existir",
+   "back": "to exist"
+  },
+  {
+   "front": "entrar",
+   "back": "to enter"
+  },
+  {
+   "front": "trabajar",
+   "back": "to work"
+  },
+  {
+   "front": "escribir",
+   "back": "to write"
+  },
+  {
+   "front": "perder",
+   "back": "to lose"
+  },
+  {
+   "front": "producir",
+   "back": "to produce"
+  },
+  {
+   "front": "ocurrir",
+   "back": "to occur"
+  },
+  {
+   "front": "entender",
+   "back": "to understand"
+  },
+  {
+   "front": "pedir",
+   "back": "to ask for / to order"
+  },
+  {
+   "front": "recibir",
+   "back": "to receive"
+  },
+  {
+   "front": "recordar",
+   "back": "to remember"
+  },
+  {
+   "front": "terminar",
+   "back": "to finish"
+  },
+  {
+   "front": "permitir",
+   "back": "to allow"
+  },
+  {
+   "front": "aparecer",
+   "back": "to appear"
+  },
+  {
+   "front": "conseguir",
+   "back": "to get / to achieve"
+  },
+  {
+   "front": "comenzar",
+   "back": "to start"
+  },
+  {
+   "front": "servir",
+   "back": "to serve"
+  },
+  {
+   "front": "sacar",
+   "back": "to take out"
+  },
+  {
+   "front": "necesitar",
+   "back": "to need"
+  },
+  {
+   "front": "mantener",
+   "back": "to maintain"
+  },
+  {
+   "front": "resultar",
+   "back": "to result / to turn out"
+  },
+  {
+   "front": "leer",
+   "back": "to read"
+  },
+  {
+   "front": "caer",
+   "back": "to fall"
+  },
+  {
+   "front": "cambiar",
+   "back": "to change"
+  },
+  {
+   "front": "presentar",
+   "back": "to present / to introduce"
+  },
+  {
+   "front": "crear",
+   "back": "to create"
+  },
+  {
+   "front": "abrir",
+   "back": "to open"
+  },
+  {
+   "front": "considerar",
+   "back": "to consider"
+  },
+  {
+   "front": "oír",
+   "back": "to hear"
+  },
+  {
+   "front": "acabar",
+   "back": "to finish"
+  },
+  {
+   "front": "convertir",
+   "back": "to convert / to turn into"
+  },
+  {
+   "front": "ganar",
+   "back": "to win / to earn"
+  },
+  {
+   "front": "formar",
+   "back": "to form"
+  },
+  {
+   "front": "traer",
+   "back": "to bring"
+  },
+  {
+   "front": "partir",
+   "back": "to depart / to split"
+  },
+  {
+   "front": "morir",
+   "back": "to die"
+  },
+  {
+   "front": "aceptar",
+   "back": "to accept"
+  },
+  {
+   "front": "realizar",
+   "back": "to carry out"
+  },
+  {
+   "front": "suponer",
+   "back": "to suppose"
+  },
+  {
+   "front": "comprender",
+   "back": "to understand / to comprise"
+  },
+  {
+   "front": "lograr",
+   "back": "to achieve"
+  },
+  {
+   "front": "explicar",
+   "back": "to explain"
+  },
+  {
+   "front": "preguntar",
+   "back": "to ask (a question)"
+  },
+  {
+   "front": "tocar",
+   "back": "to touch / to play (instrument)"
+  },
+  {
+   "front": "reconocer",
+   "back": "to recognize"
+  },
+  {
+   "front": "estudiar",
+   "back": "to study"
+  },
+  {
+   "front": "alcanzar",
+   "back": "to reach"
+  },
+  {
+   "front": "nacer",
+   "back": "to be born"
+  },
+  {
+   "front": "dirigir",
+   "back": "to direct"
+  },
+  {
+   "front": "correr",
+   "back": "to run"
+  },
+  {
+   "front": "utilizar",
+   "back": "to use"
+  },
+  {
+   "front": "pagar",
+   "back": "to pay"
+  },
+  {
+   "front": "ayudar",
+   "back": "to help"
+  },
+  {
+   "front": "gustar",
+   "back": "to be pleasing / to like"
+  },
+  {
+   "front": "jugar",
+   "back": "to play"
+  },
+  {
+   "front": "escuchar",
+   "back": "to listen"
+  },
+  {
+   "front": "cumplir",
+   "back": "to fulfill / to turn (age)"
+  },
+  {
+   "front": "ofrecer",
+   "back": "to offer"
+  },
+  {
+   "front": "descubrir",
+   "back": "to discover"
+  },
+  {
+   "front": "levantar",
+   "back": "to lift / to raise"
+  },
+  {
+   "front": "intentar",
+   "back": "to try / to attempt"
+  },
+  {
+   "front": "usar",
+   "back": "to use"
+  },
+  {
+   "front": "comer",
+   "back": "to eat"
+  },
+  {
+   "front": "beber",
+   "back": "to drink"
+  },
+  {
+   "front": "dormir",
+   "back": "to sleep"
+  },
+  {
+   "front": "cantar",
+   "back": "to sing"
+  },
+  {
+   "front": "bailar",
+   "back": "to dance"
+  },
+  {
+   "front": "cocinar",
+   "back": "to cook"
+  },
+  {
+   "front": "comprar",
+   "back": "to buy"
+  },
+  {
+   "front": "vender",
+   "back": "to sell"
+  },
+  {
+   "front": "viajar",
+   "back": "to travel"
+  },
+  {
+   "front": "caminar",
+   "back": "to walk"
+  },
+  {
+   "front": "amar",
+   "back": "to love"
+  },
+  {
+   "front": "reír",
+   "back": "to laugh"
+  },
+  {
+   "front": "llorar",
+   "back": "to cry"
+  },
+  {
+   "front": "vestir",
+   "back": "to dress"
+  },
+  {
+   "front": "lavar",
+   "back": "to wash"
+  },
+  {
+   "front": "limpiar",
+   "back": "to clean"
+  },
+  {
+   "front": "cerrar",
+   "back": "to close"
+  },
+  {
+   "front": "subir",
+   "back": "to go up"
+  },
+  {
+   "front": "bajar",
+   "back": "to go down"
+  },
+  {
+   "front": "cortar",
+   "back": "to cut"
+  },
+  {
+   "front": "romper",
+   "back": "to break"
+  },
+  {
+   "front": "mostrar",
+   "back": "to show"
+  },
+  {
+   "front": "enviar",
+   "back": "to send"
+  },
+  {
+   "front": "responder",
+   "back": "to answer"
+  },
+  {
+   "front": "olvidar",
+   "back": "to forget"
+  },
+  {
+   "front": "imaginar",
+   "back": "to imagine"
+  },
+  {
+   "front": "preparar",
+   "back": "to prepare"
+  },
+  {
+   "front": "visitar",
+   "back": "to visit"
+  },
+  {
+   "front": "conducir",
+   "back": "to drive"
+  },
+  {
+   "front": "construir",
+   "back": "to build"
+  },
+  {
+   "front": "decidir",
+   "back": "to decide"
+  },
+  {
+   "front": "elegir",
+   "back": "to choose"
+  },
+  {
+   "front": "esconder",
+   "back": "to hide"
+  },
+  {
+   "front": "sentarse",
+   "back": "to sit down"
+  },
+  {
+   "front": "despertar",
+   "back": "to wake up"
+  },
+  {
+   "front": "cenar",
+   "back": "to have dinner"
+  },
+  {
+   "front": "desayunar",
+   "back": "to have breakfast"
+  },
+  {
+   "front": "almorzar",
+   "back": "to have lunch"
+  },
+  {
+   "front": "llover",
+   "back": "to rain"
+  },
+  {
+   "front": "nevar",
+   "back": "to snow"
+  },
+  {
+   "front": "hombre",
+   "back": "man"
+  },
+  {
+   "front": "mujer",
+   "back": "woman"
+  },
+  {
+   "front": "niño",
+   "back": "boy / child"
+  },
+  {
+   "front": "niña",
+   "back": "girl"
+  },
+  {
+   "front": "persona",
+   "back": "person"
+  },
+  {
+   "front": "gente",
+   "back": "people"
+  },
+  {
+   "front": "familia",
+   "back": "family"
+  },
+  {
+   "front": "madre",
+   "back": "mother"
+  },
+  {
+   "front": "padre",
+   "back": "father"
+  },
+  {
+   "front": "hijo",
+   "back": "son"
+  },
+  {
+   "front": "hija",
+   "back": "daughter"
+  },
+  {
+   "front": "hermano",
+   "back": "brother"
+  },
+  {
+   "front": "hermana",
+   "back": "sister"
+  },
+  {
+   "front": "abuelo",
+   "back": "grandfather"
+  },
+  {
+   "front": "abuela",
+   "back": "grandmother"
+  },
+  {
+   "front": "tío",
+   "back": "uncle"
+  },
+  {
+   "front": "tía",
+   "back": "aunt"
+  },
+  {
+   "front": "primo",
+   "back": "cousin (m)"
+  },
+  {
+   "front": "prima",
+   "back": "cousin (f)"
+  },
+  {
+   "front": "esposo",
+   "back": "husband"
+  },
+  {
+   "front": "esposa",
+   "back": "wife"
+  },
+  {
+   "front": "marido",
+   "back": "husband"
+  },
+  {
+   "front": "novio",
+   "back": "boyfriend / fiancé"
+  },
+  {
+   "front": "novia",
+   "back": "girlfriend / fiancée"
+  },
+  {
+   "front": "amigo",
+   "back": "friend (m)"
+  },
+  {
+   "front": "amiga",
+   "back": "friend (f)"
+  },
+  {
+   "front": "vecino",
+   "back": "neighbor"
+  },
+  {
+   "front": "señor",
+   "back": "sir / Mr."
+  },
+  {
+   "front": "señora",
+   "back": "madam / Mrs."
+  },
+  {
+   "front": "señorita",
+   "back": "miss"
+  },
+  {
+   "front": "joven",
+   "back": "young / young person"
+  },
+  {
+   "front": "viejo",
+   "back": "old"
+  },
+  {
+   "front": "chico",
+   "back": "boy / guy"
+  },
+  {
+   "front": "chica",
+   "back": "girl"
+  },
+  {
+   "front": "bebé",
+   "back": "baby"
+  },
+  {
+   "front": "rey",
+   "back": "king"
+  },
+  {
+   "front": "reina",
+   "back": "queen"
+  },
+  {
+   "front": "jefe",
+   "back": "boss"
+  },
+  {
+   "front": "maestro",
+   "back": "teacher"
+  },
+  {
+   "front": "profesor",
+   "back": "professor / teacher"
+  },
+  {
+   "front": "estudiante",
+   "back": "student"
+  },
+  {
+   "front": "médico",
+   "back": "doctor"
+  },
+  {
+   "front": "doctor",
+   "back": "doctor"
+  },
+  {
+   "front": "enfermero",
+   "back": "nurse"
+  },
+  {
+   "front": "policía",
+   "back": "police"
+  },
+  {
+   "front": "soldado",
+   "back": "soldier"
+  },
+  {
+   "front": "presidente",
+   "back": "president"
+  },
+  {
+   "front": "ministro",
+   "back": "minister"
+  },
+  {
+   "front": "cliente",
+   "back": "customer"
+  },
+  {
+   "front": "casa",
+   "back": "house"
+  },
+  {
+   "front": "hogar",
+   "back": "home"
+  },
+  {
+   "front": "ciudad",
+   "back": "city"
+  },
+  {
+   "front": "pueblo",
+   "back": "town / people"
+  },
+  {
+   "front": "calle",
+   "back": "street"
+  },
+  {
+   "front": "camino",
+   "back": "road / path"
+  },
+  {
+   "front": "puerta",
+   "back": "door"
+  },
+  {
+   "front": "ventana",
+   "back": "window"
+  },
+  {
+   "front": "pared",
+   "back": "wall"
+  },
+  {
+   "front": "techo",
+   "back": "roof / ceiling"
+  },
+  {
+   "front": "suelo",
+   "back": "floor / ground"
+  },
+  {
+   "front": "cuarto",
+   "back": "room / fourth"
+  },
+  {
+   "front": "habitación",
+   "back": "bedroom / room"
+  },
+  {
+   "front": "cocina",
+   "back": "kitchen"
+  },
+  {
+   "front": "baño",
+   "back": "bathroom"
+  },
+  {
+   "front": "sala",
+   "back": "living room"
+  },
+  {
+   "front": "jardín",
+   "back": "garden"
+  },
+  {
+   "front": "cama",
+   "back": "bed"
+  },
+  {
+   "front": "mesa",
+   "back": "table"
+  },
+  {
+   "front": "silla",
+   "back": "chair"
+  },
+  {
+   "front": "sofá",
+   "back": "sofa"
+  },
+  {
+   "front": "lámpara",
+   "back": "lamp"
+  },
+  {
+   "front": "espejo",
+   "back": "mirror"
+  },
+  {
+   "front": "edificio",
+   "back": "building"
+  },
+  {
+   "front": "oficina",
+   "back": "office"
+  },
+  {
+   "front": "escuela",
+   "back": "school"
+  },
+  {
+   "front": "colegio",
+   "back": "school"
+  },
+  {
+   "front": "universidad",
+   "back": "university"
+  },
+  {
+   "front": "iglesia",
+   "back": "church"
+  },
+  {
+   "front": "hospital",
+   "back": "hospital"
+  },
+  {
+   "front": "hotel",
+   "back": "hotel"
+  },
+  {
+   "front": "tienda",
+   "back": "store"
+  },
+  {
+   "front": "mercado",
+   "back": "market"
+  },
+  {
+   "front": "banco",
+   "back": "bank"
+  },
+  {
+   "front": "restaurante",
+   "back": "restaurant"
+  },
+  {
+   "front": "biblioteca",
+   "back": "library"
+  },
+  {
+   "front": "parque",
+   "back": "park"
+  },
+  {
+   "front": "plaza",
+   "back": "square"
+  },
+  {
+   "front": "puente",
+   "back": "bridge"
+  },
+  {
+   "front": "estación",
+   "back": "station / season"
+  },
+  {
+   "front": "aeropuerto",
+   "back": "airport"
+  },
+  {
+   "front": "carretera",
+   "back": "highway"
+  },
+  {
+   "front": "coche",
+   "back": "car"
+  },
+  {
+   "front": "carro",
+   "back": "car"
+  },
+  {
+   "front": "auto",
+   "back": "car"
+  },
+  {
+   "front": "autobús",
+   "back": "bus"
+  },
+  {
+   "front": "tren",
+   "back": "train"
+  },
+  {
+   "front": "avión",
+   "back": "airplane"
+  },
+  {
+   "front": "barco",
+   "back": "boat"
+  },
+  {
+   "front": "bicicleta",
+   "back": "bicycle"
+  },
+  {
+   "front": "moto",
+   "back": "motorcycle"
+  },
+  {
+   "front": "viaje",
+   "back": "trip"
+  },
+  {
+   "front": "agua",
+   "back": "water"
+  },
+  {
+   "front": "comida",
+   "back": "food / meal"
+  },
+  {
+   "front": "pan",
+   "back": "bread"
+  },
+  {
+   "front": "leche",
+   "back": "milk"
+  },
+  {
+   "front": "café",
+   "back": "coffee"
+  },
+  {
+   "front": "té",
+   "back": "tea"
+  },
+  {
+   "front": "vino",
+   "back": "wine"
+  },
+  {
+   "front": "cerveza",
+   "back": "beer"
+  },
+  {
+   "front": "jugo",
+   "back": "juice"
+  },
+  {
+   "front": "carne",
+   "back": "meat"
+  },
+  {
+   "front": "pollo",
+   "back": "chicken"
+  },
+  {
+   "front": "pescado",
+   "back": "fish (food)"
+  },
+  {
+   "front": "huevo",
+   "back": "egg"
+  },
+  {
+   "front": "queso",
+   "back": "cheese"
+  },
+  {
+   "front": "arroz",
+   "back": "rice"
+  },
+  {
+   "front": "frijol",
+   "back": "bean"
+  },
+  {
+   "front": "sopa",
+   "back": "soup"
+  },
+  {
+   "front": "ensalada",
+   "back": "salad"
+  },
+  {
+   "front": "fruta",
+   "back": "fruit"
+  },
+  {
+   "front": "manzana",
+   "back": "apple"
+  },
+  {
+   "front": "naranja",
+   "back": "orange"
+  },
+  {
+   "front": "plátano",
+   "back": "banana"
+  },
+  {
+   "front": "uva",
+   "back": "grape"
+  },
+  {
+   "front": "limón",
+   "back": "lemon"
+  },
+  {
+   "front": "verdura",
+   "back": "vegetable"
+  },
+  {
+   "front": "tomate",
+   "back": "tomato"
+  },
+  {
+   "front": "patata",
+   "back": "potato"
+  },
+  {
+   "front": "cebolla",
+   "back": "onion"
+  },
+  {
+   "front": "azúcar",
+   "back": "sugar"
+  },
+  {
+   "front": "sal",
+   "back": "salt"
+  },
+  {
+   "front": "aceite",
+   "back": "oil"
+  },
+  {
+   "front": "desayuno",
+   "back": "breakfast"
+  },
+  {
+   "front": "almuerzo",
+   "back": "lunch"
+  },
+  {
+   "front": "cena",
+   "back": "dinner"
+  },
+  {
+   "front": "hambre",
+   "back": "hunger"
+  },
+  {
+   "front": "sed",
+   "back": "thirst"
+  },
+  {
+   "front": "cuerpo",
+   "back": "body"
+  },
+  {
+   "front": "cabeza",
+   "back": "head"
+  },
+  {
+   "front": "cara",
+   "back": "face"
+  },
+  {
+   "front": "ojo",
+   "back": "eye"
+  },
+  {
+   "front": "oreja",
+   "back": "ear (outer)"
+  },
+  {
+   "front": "nariz",
+   "back": "nose"
+  },
+  {
+   "front": "boca",
+   "back": "mouth"
+  },
+  {
+   "front": "diente",
+   "back": "tooth"
+  },
+  {
+   "front": "pelo",
+   "back": "hair"
+  },
+  {
+   "front": "cuello",
+   "back": "neck"
+  },
+  {
+   "front": "brazo",
+   "back": "arm"
+  },
+  {
+   "front": "mano",
+   "back": "hand"
+  },
+  {
+   "front": "dedo",
+   "back": "finger"
+  },
+  {
+   "front": "pierna",
+   "back": "leg"
+  },
+  {
+   "front": "pie",
+   "back": "foot"
+  },
+  {
+   "front": "espalda",
+   "back": "back"
+  },
+  {
+   "front": "corazón",
+   "back": "heart"
+  },
+  {
+   "front": "sangre",
+   "back": "blood"
+  },
+  {
+   "front": "piel",
+   "back": "skin"
+  },
+  {
+   "front": "salud",
+   "back": "health"
+  },
+  {
+   "front": "enfermedad",
+   "back": "illness"
+  },
+  {
+   "front": "dolor",
+   "back": "pain"
+  },
+  {
+   "front": "mal",
+   "back": "evil / ill"
+  },
+  {
+   "front": "medicina",
+   "back": "medicine"
+  },
+  {
+   "front": "sol",
+   "back": "sun"
+  },
+  {
+   "front": "luna",
+   "back": "moon"
+  },
+  {
+   "front": "estrella",
+   "back": "star"
+  },
+  {
+   "front": "cielo",
+   "back": "sky / heaven"
+  },
+  {
+   "front": "tierra",
+   "back": "earth / land"
+  },
+  {
+   "front": "mar",
+   "back": "sea"
+  },
+  {
+   "front": "río",
+   "back": "river"
+  },
+  {
+   "front": "lago",
+   "back": "lake"
+  },
+  {
+   "front": "montaña",
+   "back": "mountain"
+  },
+  {
+   "front": "campo",
+   "back": "countryside / field"
+  },
+  {
+   "front": "bosque",
+   "back": "forest"
+  },
+  {
+   "front": "árbol",
+   "back": "tree"
+  },
+  {
+   "front": "flor",
+   "back": "flower"
+  },
+  {
+   "front": "planta",
+   "back": "plant"
+  },
+  {
+   "front": "hierba",
+   "back": "grass / herb"
+  },
+  {
+   "front": "piedra",
+   "back": "stone"
+  },
+  {
+   "front": "playa",
+   "back": "beach"
+  },
+  {
+   "front": "isla",
+   "back": "island"
+  },
+  {
+   "front": "fuego",
+   "back": "fire"
+  },
+  {
+   "front": "aire",
+   "back": "air"
+  },
+  {
+   "front": "viento",
+   "back": "wind"
+  },
+  {
+   "front": "lluvia",
+   "back": "rain"
+  },
+  {
+   "front": "nieve",
+   "back": "snow"
+  },
+  {
+   "front": "nube",
+   "back": "cloud"
+  },
+  {
+   "front": "calor",
+   "back": "heat"
+  },
+  {
+   "front": "frío",
+   "back": "cold"
+  },
+  {
+   "front": "clima",
+   "back": "climate"
+  },
+  {
+   "front": "naturaleza",
+   "back": "nature"
+  },
+  {
+   "front": "animal",
+   "back": "animal"
+  },
+  {
+   "front": "perro",
+   "back": "dog"
+  },
+  {
+   "front": "gato",
+   "back": "cat"
+  },
+  {
+   "front": "caballo",
+   "back": "horse"
+  },
+  {
+   "front": "vaca",
+   "back": "cow"
+  },
+  {
+   "front": "cerdo",
+   "back": "pig"
+  },
+  {
+   "front": "oveja",
+   "back": "sheep"
+  },
+  {
+   "front": "pájaro",
+   "back": "bird"
+  },
+  {
+   "front": "pez",
+   "back": "fish (live)"
+  },
+  {
+   "front": "ratón",
+   "back": "mouse"
+  },
+  {
+   "front": "lobo",
+   "back": "wolf"
+  },
+  {
+   "front": "oso",
+   "back": "bear"
+  },
+  {
+   "front": "mosquito",
+   "back": "mosquito"
+  },
+  {
+   "front": "trabajo",
+   "back": "work / job"
+  },
+  {
+   "front": "empresa",
+   "back": "company"
+  },
+  {
+   "front": "negocio",
+   "back": "business"
+  },
+  {
+   "front": "dinero",
+   "back": "money"
+  },
+  {
+   "front": "precio",
+   "back": "price"
+  },
+  {
+   "front": "pago",
+   "back": "payment"
+  },
+  {
+   "front": "cuenta",
+   "back": "bill / account"
+  },
+  {
+   "front": "mercancía",
+   "back": "merchandise"
+  },
+  {
+   "front": "compra",
+   "back": "purchase"
+  },
+  {
+   "front": "venta",
+   "back": "sale"
+  },
+  {
+   "front": "costo",
+   "back": "cost"
+  },
+  {
+   "front": "salario",
+   "back": "salary"
+  },
+  {
+   "front": "empleo",
+   "back": "employment"
+  },
+  {
+   "front": "fábrica",
+   "back": "factory"
+  },
+  {
+   "front": "industria",
+   "back": "industry"
+  },
+  {
+   "front": "economía",
+   "back": "economy"
+  },
+  {
+   "front": "proyecto",
+   "back": "project"
+  },
+  {
+   "front": "plan",
+   "back": "plan"
+  },
+  {
+   "front": "servicio",
+   "back": "service"
+  },
+  {
+   "front": "producto",
+   "back": "product"
+  },
+  {
+   "front": "resultado",
+   "back": "result"
+  },
+  {
+   "front": "problema",
+   "back": "problem"
+  },
+  {
+   "front": "solución",
+   "back": "solution"
+  },
+  {
+   "front": "pregunta",
+   "back": "question"
+  },
+  {
+   "front": "respuesta",
+   "back": "answer"
+  },
+  {
+   "front": "idea",
+   "back": "idea"
+  },
+  {
+   "front": "razón",
+   "back": "reason"
+  },
+  {
+   "front": "motivo",
+   "back": "motive"
+  },
+  {
+   "front": "causa",
+   "back": "cause"
+  },
+  {
+   "front": "efecto",
+   "back": "effect"
+  },
+  {
+   "front": "objetivo",
+   "back": "goal / objective"
+  },
+  {
+   "front": "fin",
+   "back": "end"
+  },
+  {
+   "front": "final",
+   "back": "end / final"
+  },
+  {
+   "front": "principio",
+   "back": "beginning / principle"
+  },
+  {
+   "front": "inicio",
+   "back": "start"
+  },
+  {
+   "front": "cambio",
+   "back": "change"
+  },
+  {
+   "front": "cosa",
+   "back": "thing"
+  },
+  {
+   "front": "algo",
+   "back": "something"
+  },
+  {
+   "front": "alguien",
+   "back": "someone"
+  },
+  {
+   "front": "nadie",
+   "back": "nobody"
+  },
+  {
+   "front": "alguno",
+   "back": "some / any"
+  },
+  {
+   "front": "ninguno",
+   "back": "none / no"
+  },
+  {
+   "front": "cualquier",
+   "back": "any"
+  },
+  {
+   "front": "varios",
+   "back": "several"
+  },
+  {
+   "front": "mucho",
+   "back": "much / a lot"
+  },
+  {
+   "front": "poco",
+   "back": "little / few"
+  },
+  {
+   "front": "bastante",
+   "back": "enough / quite"
+  },
+  {
+   "front": "demasiado",
+   "back": "too much"
+  },
+  {
+   "front": "primero",
+   "back": "first"
+  },
+  {
+   "front": "segundo",
+   "back": "second"
+  },
+  {
+   "front": "tercero",
+   "back": "third"
+  },
+  {
+   "front": "último",
+   "back": "last"
+  },
+  {
+   "front": "siguiente",
+   "back": "next"
+  },
+  {
+   "front": "anterior",
+   "back": "previous"
+  },
+  {
+   "front": "nuevo",
+   "back": "new"
+  },
+  {
+   "front": "antiguo",
+   "back": "ancient / old"
+  },
+  {
+   "front": "bueno",
+   "back": "good"
+  },
+  {
+   "front": "malo",
+   "back": "bad"
+  },
+  {
+   "front": "mejor",
+   "back": "better / best"
+  },
+  {
+   "front": "peor",
+   "back": "worse / worst"
+  },
+  {
+   "front": "grande",
+   "back": "big"
+  },
+  {
+   "front": "pequeño",
+   "back": "small"
+  },
+  {
+   "front": "largo",
+   "back": "long"
+  },
+  {
+   "front": "corto",
+   "back": "short"
+  },
+  {
+   "front": "alto",
+   "back": "tall / high"
+  },
+  {
+   "front": "bajo",
+   "back": "short / low"
+  },
+  {
+   "front": "ancho",
+   "back": "wide"
+  },
+  {
+   "front": "estrecho",
+   "back": "narrow"
+  },
+  {
+   "front": "gordo",
+   "back": "fat"
+  },
+  {
+   "front": "delgado",
+   "back": "thin"
+  },
+  {
+   "front": "fuerte",
+   "back": "strong"
+  },
+  {
+   "front": "débil",
+   "back": "weak"
+  },
+  {
+   "front": "rápido",
+   "back": "fast"
+  },
+  {
+   "front": "lento",
+   "back": "slow"
+  },
+  {
+   "front": "fácil",
+   "back": "easy"
+  },
+  {
+   "front": "difícil",
+   "back": "difficult"
+  },
+  {
+   "front": "posible",
+   "back": "possible"
+  },
+  {
+   "front": "imposible",
+   "back": "impossible"
+  },
+  {
+   "front": "importante",
+   "back": "important"
+  },
+  {
+   "front": "necesario",
+   "back": "necessary"
+  },
+  {
+   "front": "cierto",
+   "back": "certain / true"
+  },
+  {
+   "front": "verdadero",
+   "back": "true"
+  },
+  {
+   "front": "falso",
+   "back": "false"
+  },
+  {
+   "front": "seguro",
+   "back": "sure / safe"
+  },
+  {
+   "front": "libre",
+   "back": "free"
+  },
+  {
+   "front": "lleno",
+   "back": "full"
+  },
+  {
+   "front": "vacío",
+   "back": "empty"
+  },
+  {
+   "front": "abierto",
+   "back": "open"
+  },
+  {
+   "front": "cerrado",
+   "back": "closed"
+  },
+  {
+   "front": "duro",
+   "back": "hard"
+  },
+  {
+   "front": "blando",
+   "back": "soft"
+  },
+  {
+   "front": "limpio",
+   "back": "clean"
+  },
+  {
+   "front": "sucio",
+   "back": "dirty"
+  },
+  {
+   "front": "caliente",
+   "back": "hot"
+  },
+  {
+   "front": "tibio",
+   "back": "warm"
+  },
+  {
+   "front": "húmedo",
+   "back": "humid / wet"
+  },
+  {
+   "front": "seco",
+   "back": "dry"
+  },
+  {
+   "front": "feliz",
+   "back": "happy"
+  },
+  {
+   "front": "contento",
+   "back": "glad / content"
+  },
+  {
+   "front": "triste",
+   "back": "sad"
+  },
+  {
+   "front": "enfadado",
+   "back": "angry"
+  },
+  {
+   "front": "cansado",
+   "back": "tired"
+  },
+  {
+   "front": "enfermo",
+   "back": "sick"
+  },
+  {
+   "front": "sano",
+   "back": "healthy"
+  },
+  {
+   "front": "tranquilo",
+   "back": "calm"
+  },
+  {
+   "front": "nervioso",
+   "back": "nervous"
+  },
+  {
+   "front": "asustado",
+   "back": "scared"
+  },
+  {
+   "front": "sorprendido",
+   "back": "surprised"
+  },
+  {
+   "front": "aburrido",
+   "back": "bored"
+  },
+  {
+   "front": "ocupado",
+   "back": "busy"
+  },
+  {
+   "front": "listo",
+   "back": "ready / smart"
+  },
+  {
+   "front": "inteligente",
+   "back": "intelligent"
+  },
+  {
+   "front": "tonto",
+   "back": "silly / dumb"
+  },
+  {
+   "front": "guapo",
+   "back": "handsome"
+  },
+  {
+   "front": "bonito",
+   "back": "pretty"
+  },
+  {
+   "front": "feo",
+   "back": "ugly"
+  },
+  {
+   "front": "hermoso",
+   "back": "beautiful"
+  },
+  {
+   "front": "simpático",
+   "back": "nice / friendly"
+  },
+  {
+   "front": "amable",
+   "back": "kind"
+  },
+  {
+   "front": "divertido",
+   "back": "fun"
+  },
+  {
+   "front": "serio",
+   "back": "serious"
+  },
+  {
+   "front": "famoso",
+   "back": "famous"
+  },
+  {
+   "front": "rico",
+   "back": "rich / tasty"
+  },
+  {
+   "front": "pobre",
+   "back": "poor"
+  },
+  {
+   "front": "caro",
+   "back": "expensive"
+  },
+  {
+   "front": "barato",
+   "back": "cheap"
+  },
+  {
+   "front": "extraño",
+   "back": "strange"
+  },
+  {
+   "front": "raro",
+   "back": "rare / odd"
+  },
+  {
+   "front": "diferente",
+   "back": "different"
+  },
+  {
+   "front": "igual",
+   "back": "equal"
+  },
+  {
+   "front": "propio",
+   "back": "own"
+  },
+  {
+   "front": "público",
+   "back": "public"
+  },
+  {
+   "front": "privado",
+   "back": "private"
+  },
+  {
+   "front": "social",
+   "back": "social"
+  },
+  {
+   "front": "político",
+   "back": "political"
+  },
+  {
+   "front": "económico",
+   "back": "economic"
+  },
+  {
+   "front": "nacional",
+   "back": "national"
+  },
+  {
+   "front": "internacional",
+   "back": "international"
+  },
+  {
+   "front": "cultural",
+   "back": "cultural"
+  },
+  {
+   "front": "histórico",
+   "back": "historical"
+  },
+  {
+   "front": "personal",
+   "back": "personal"
+  },
+  {
+   "front": "especial",
+   "back": "special"
+  },
+  {
+   "front": "principal",
+   "back": "main"
+  },
+  {
+   "front": "real",
+   "back": "real / royal"
+  },
+  {
+   "front": "humano",
+   "back": "human"
+  },
+  {
+   "front": "natural",
+   "back": "natural"
+  },
+  {
+   "front": "blanco",
+   "back": "white"
+  },
+  {
+   "front": "negro",
+   "back": "black"
+  },
+  {
+   "front": "rojo",
+   "back": "red"
+  },
+  {
+   "front": "azul",
+   "back": "blue"
+  },
+  {
+   "front": "verde",
+   "back": "green"
+  },
+  {
+   "front": "amarillo",
+   "back": "yellow"
+  },
+  {
+   "front": "marrón",
+   "back": "brown"
+  },
+  {
+   "front": "gris",
+   "back": "gray"
+  },
+  {
+   "front": "rosa",
+   "back": "pink"
+  },
+  {
+   "front": "morado",
+   "back": "purple"
+  },
+  {
+   "front": "cuatro",
+   "back": "four"
+  },
+  {
+   "front": "cinco",
+   "back": "five"
+  },
+  {
+   "front": "seis",
+   "back": "six"
+  },
+  {
+   "front": "siete",
+   "back": "seven"
+  },
+  {
+   "front": "ocho",
+   "back": "eight"
+  },
+  {
+   "front": "nueve",
+   "back": "nine"
+  },
+  {
+   "front": "diez",
+   "back": "ten"
+  },
+  {
+   "front": "once",
+   "back": "eleven"
+  },
+  {
+   "front": "doce",
+   "back": "twelve"
+  },
+  {
+   "front": "trece",
+   "back": "thirteen"
+  },
+  {
+   "front": "catorce",
+   "back": "fourteen"
+  },
+  {
+   "front": "quince",
+   "back": "fifteen"
+  },
+  {
+   "front": "dieciséis",
+   "back": "sixteen"
+  },
+  {
+   "front": "diecisiete",
+   "back": "seventeen"
+  },
+  {
+   "front": "dieciocho",
+   "back": "eighteen"
+  },
+  {
+   "front": "diecinueve",
+   "back": "nineteen"
+  },
+  {
+   "front": "veinte",
+   "back": "twenty"
+  },
+  {
+   "front": "treinta",
+   "back": "thirty"
+  },
+  {
+   "front": "cuarenta",
+   "back": "forty"
+  },
+  {
+   "front": "cincuenta",
+   "back": "fifty"
+  },
+  {
+   "front": "sesenta",
+   "back": "sixty"
+  },
+  {
+   "front": "setenta",
+   "back": "seventy"
+  },
+  {
+   "front": "ochenta",
+   "back": "eighty"
+  },
+  {
+   "front": "noventa",
+   "back": "ninety"
+  },
+  {
+   "front": "cien",
+   "back": "one hundred"
+  },
+  {
+   "front": "ciento",
+   "back": "hundred"
+  },
+  {
+   "front": "mil",
+   "back": "thousand"
+  },
+  {
+   "front": "millón",
+   "back": "million"
+  },
+  {
+   "front": "medio",
+   "back": "half / middle"
+  },
+  {
+   "front": "doble",
+   "back": "double"
+  },
+  {
+   "front": "lunes",
+   "back": "Monday"
+  },
+  {
+   "front": "martes",
+   "back": "Tuesday"
+  },
+  {
+   "front": "miércoles",
+   "back": "Wednesday"
+  },
+  {
+   "front": "jueves",
+   "back": "Thursday"
+  },
+  {
+   "front": "viernes",
+   "back": "Friday"
+  },
+  {
+   "front": "sábado",
+   "back": "Saturday"
+  },
+  {
+   "front": "domingo",
+   "back": "Sunday"
+  },
+  {
+   "front": "enero",
+   "back": "January"
+  },
+  {
+   "front": "febrero",
+   "back": "February"
+  },
+  {
+   "front": "marzo",
+   "back": "March"
+  },
+  {
+   "front": "abril",
+   "back": "April"
+  },
+  {
+   "front": "mayo",
+   "back": "May"
+  },
+  {
+   "front": "junio",
+   "back": "June"
+  },
+  {
+   "front": "julio",
+   "back": "July"
+  },
+  {
+   "front": "agosto",
+   "back": "August"
+  },
+  {
+   "front": "septiembre",
+   "back": "September"
+  },
+  {
+   "front": "octubre",
+   "back": "October"
+  },
+  {
+   "front": "noviembre",
+   "back": "November"
+  },
+  {
+   "front": "diciembre",
+   "back": "December"
+  },
+  {
+   "front": "semana",
+   "back": "week"
+  },
+  {
+   "front": "mes",
+   "back": "month"
+  },
+  {
+   "front": "hora",
+   "back": "hour"
+  },
+  {
+   "front": "minuto",
+   "back": "minute"
+  },
+  {
+   "front": "momento",
+   "back": "moment"
+  },
+  {
+   "front": "rato",
+   "back": "while / short time"
+  },
+  {
+   "front": "mañana",
+   "back": "tomorrow / morning"
+  },
+  {
+   "front": "tarde",
+   "back": "afternoon / late"
+  },
+  {
+   "front": "noche",
+   "back": "night"
+  },
+  {
+   "front": "hoy",
+   "back": "today"
+  },
+  {
+   "front": "ayer",
+   "back": "yesterday"
+  },
+  {
+   "front": "anoche",
+   "back": "last night"
+  },
+  {
+   "front": "pronto",
+   "back": "soon"
+  },
+  {
+   "front": "temprano",
+   "back": "early"
+  },
+  {
+   "front": "nunca",
+   "back": "never"
+  },
+  {
+   "front": "jamás",
+   "back": "never / ever"
+  },
+  {
+   "front": "todavía",
+   "back": "still / yet"
+  },
+  {
+   "front": "aún",
+   "back": "still / yet"
+  },
+  {
+   "front": "luego",
+   "back": "then / later"
+  },
+  {
+   "front": "entonces",
+   "back": "then"
+  },
+  {
+   "front": "mientras",
+   "back": "while"
+  },
+  {
+   "front": "primavera",
+   "back": "spring"
+  },
+  {
+   "front": "verano",
+   "back": "summer"
+  },
+  {
+   "front": "otoño",
+   "back": "autumn"
+  },
+  {
+   "front": "invierno",
+   "back": "winter"
+  },
+  {
+   "front": "aquí",
+   "back": "here"
+  },
+  {
+   "front": "allí",
+   "back": "there"
+  },
+  {
+   "front": "ahí",
+   "back": "there"
+  },
+  {
+   "front": "allá",
+   "back": "over there"
+  },
+  {
+   "front": "acá",
+   "back": "here"
+  },
+  {
+   "front": "cerca",
+   "back": "near"
+  },
+  {
+   "front": "lejos",
+   "back": "far"
+  },
+  {
+   "front": "arriba",
+   "back": "above / up"
+  },
+  {
+   "front": "abajo",
+   "back": "below / down"
+  },
+  {
+   "front": "dentro",
+   "back": "inside"
+  },
+  {
+   "front": "fuera",
+   "back": "outside"
+  },
+  {
+   "front": "delante",
+   "back": "in front"
+  },
+  {
+   "front": "detrás",
+   "back": "behind"
+  },
+  {
+   "front": "encima",
+   "back": "on top"
+  },
+  {
+   "front": "debajo",
+   "back": "underneath"
+  },
+  {
+   "front": "izquierda",
+   "back": "left"
+  },
+  {
+   "front": "derecha",
+   "back": "right"
+  },
+  {
+   "front": "lado",
+   "back": "side"
+  },
+  {
+   "front": "centro",
+   "back": "center"
+  },
+  {
+   "front": "norte",
+   "back": "north"
+  },
+  {
+   "front": "sur",
+   "back": "south"
+  },
+  {
+   "front": "oeste",
+   "back": "west"
+  },
+  {
+   "front": "dónde",
+   "back": "where (question)"
+  },
+  {
+   "front": "cuándo",
+   "back": "when (question)"
+  },
+  {
+   "front": "cómo",
+   "back": "how"
+  },
+  {
+   "front": "quién",
+   "back": "who"
+  },
+  {
+   "front": "cuál",
+   "back": "which"
+  },
+  {
+   "front": "cuánto",
+   "back": "how much"
+  },
+  {
+   "front": "por qué",
+   "back": "why"
+  },
+  {
+   "front": "tú",
+   "back": "you (informal)"
+  },
+  {
+   "front": "usted",
+   "back": "you (formal)"
+  },
+  {
+   "front": "nosotros",
+   "back": "we"
+  },
+  {
+   "front": "vosotros",
+   "back": "you all (Spain)"
+  },
+  {
+   "front": "ellos",
+   "back": "they (m)"
+  },
+  {
+   "front": "ellas",
+   "back": "they (f)"
+  },
+  {
+   "front": "ustedes",
+   "back": "you all"
+  },
+  {
+   "front": "mío",
+   "back": "mine"
+  },
+  {
+   "front": "tuyo",
+   "back": "yours"
+  },
+  {
+   "front": "suyo",
+   "back": "his / hers"
+  },
+  {
+   "front": "nuestro",
+   "back": "our"
+  },
+  {
+   "front": "vuestro",
+   "back": "your (pl, Spain)"
+  },
+  {
+   "front": "quien",
+   "back": "who / whom"
+  },
+  {
+   "front": "cual",
+   "back": "which"
+  },
+  {
+   "front": "aquel",
+   "back": "that (over there)"
+  },
+  {
+   "front": "aquello",
+   "back": "that (over there, neuter)"
+  },
+  {
+   "front": "esto",
+   "back": "this (neuter)"
+  },
+  {
+   "front": "éste",
+   "back": "this one"
+  },
+  {
+   "front": "ése",
+   "back": "that one"
+  },
+  {
+   "front": "hola",
+   "back": "hello"
+  },
+  {
+   "front": "adiós",
+   "back": "goodbye"
+  },
+  {
+   "front": "gracias",
+   "back": "thank you"
+  },
+  {
+   "front": "por favor",
+   "back": "please"
+  },
+  {
+   "front": "perdón",
+   "back": "sorry / excuse me"
+  },
+  {
+   "front": "lo siento",
+   "back": "I'm sorry"
+  },
+  {
+   "front": "de nada",
+   "back": "you're welcome"
+  },
+  {
+   "front": "buenos días",
+   "back": "good morning"
+  },
+  {
+   "front": "buenas tardes",
+   "back": "good afternoon"
+  },
+  {
+   "front": "buenas noches",
+   "back": "good night"
+  },
+  {
+   "front": "bienvenido",
+   "back": "welcome"
+  },
+  {
+   "front": "hasta luego",
+   "back": "see you later"
+  },
+  {
+   "front": "hasta mañana",
+   "back": "see you tomorrow"
+  },
+  {
+   "front": "claro",
+   "back": "of course / clear"
+  },
+  {
+   "front": "vale",
+   "back": "OK"
+  },
+  {
+   "front": "quizás",
+   "back": "maybe"
+  },
+  {
+   "front": "tal vez",
+   "back": "perhaps"
+  },
+  {
+   "front": "acaso",
+   "back": "perhaps"
+  },
+  {
+   "front": "además",
+   "back": "besides"
+  },
+  {
+   "front": "incluso",
+   "back": "even"
+  },
+  {
+   "front": "sobre todo",
+   "back": "above all"
+  },
+  {
+   "front": "sin embargo",
+   "back": "however"
+  },
+  {
+   "front": "por eso",
+   "back": "that's why"
+  },
+  {
+   "front": "por lo tanto",
+   "back": "therefore"
+  },
+  {
+   "front": "a veces",
+   "back": "sometimes"
+  },
+  {
+   "front": "de repente",
+   "back": "suddenly"
+  },
+  {
+   "front": "en seguida",
+   "back": "right away"
+  },
+  {
+   "front": "a menudo",
+   "back": "often"
+  },
+  {
+   "front": "casi",
+   "back": "almost"
+  },
+  {
+   "front": "apenas",
+   "back": "barely"
+  },
+  {
+   "front": "solo",
+   "back": "alone / only"
+  },
+  {
+   "front": "junto",
+   "back": "together"
+  },
+  {
+   "front": "despacio",
+   "back": "slowly"
+  },
+  {
+   "front": "rápidamente",
+   "back": "quickly"
+  },
+  {
+   "front": "tampoco",
+   "back": "neither / either"
+  },
+  {
+   "front": "acerca",
+   "back": "about"
+  },
+  {
+   "front": "ante",
+   "back": "before / in front of"
+  },
+  {
+   "front": "tras",
+   "back": "after / behind"
+  },
+  {
+   "front": "hacia",
+   "back": "toward"
+  },
+  {
+   "front": "mediante",
+   "back": "by means of"
+  },
+  {
+   "front": "salvo",
+   "back": "except"
+  },
+  {
+   "front": "excepto",
+   "back": "except"
+  },
+  {
+   "front": "dentro de",
+   "back": "within"
+  },
+  {
+   "front": "fuera de",
+   "back": "outside of"
+  },
+  {
+   "front": "cerca de",
+   "back": "near to"
+  },
+  {
+   "front": "lejos de",
+   "back": "far from"
+  },
+  {
+   "front": "antes de",
+   "back": "before"
+  },
+  {
+   "front": "después de",
+   "back": "after"
+  },
+  {
+   "front": "a causa de",
+   "back": "because of"
+  },
+  {
+   "front": "gracias a",
+   "back": "thanks to"
+  },
+  {
+   "front": "a pesar de",
+   "back": "despite"
+  },
+  {
+   "front": "en vez de",
+   "back": "instead of"
+  },
+  {
+   "front": "alrededor",
+   "back": "around"
+  },
+  {
+   "front": "afuera",
+   "back": "outside"
+  },
+  {
+   "front": "adentro",
+   "back": "inside"
+  },
+  {
+   "front": "guerra",
+   "back": "war"
+  },
+  {
+   "front": "paz",
+   "back": "peace"
+  },
+  {
+   "front": "ley",
+   "back": "law"
+  },
+  {
+   "front": "justicia",
+   "back": "justice"
+  },
+  {
+   "front": "derecho",
+   "back": "right / law"
+  },
+  {
+   "front": "libertad",
+   "back": "freedom"
+  },
+  {
+   "front": "fuerza",
+   "back": "force / strength"
+  },
+  {
+   "front": "nación",
+   "back": "nation"
+  },
+  {
+   "front": "república",
+   "back": "republic"
+  },
+  {
+   "front": "ejército",
+   "back": "army"
+  },
+  {
+   "front": "partido",
+   "back": "party / match"
+  },
+  {
+   "front": "política",
+   "back": "politics / policy"
+  },
+  {
+   "front": "elección",
+   "back": "election"
+  },
+  {
+   "front": "voto",
+   "back": "vote"
+  },
+  {
+   "front": "ciudadano",
+   "back": "citizen"
+  },
+  {
+   "front": "sociedad",
+   "back": "society"
+  },
+  {
+   "front": "historia",
+   "back": "history / story"
+  },
+  {
+   "front": "cultura",
+   "back": "culture"
+  },
+  {
+   "front": "religión",
+   "back": "religion"
+  },
+  {
+   "front": "dios",
+   "back": "god"
+  },
+  {
+   "front": "fe",
+   "back": "faith"
+  },
+  {
+   "front": "alma",
+   "back": "soul"
+  },
+  {
+   "front": "muerte",
+   "back": "death"
+  },
+  {
+   "front": "amor",
+   "back": "love"
+  },
+  {
+   "front": "odio",
+   "back": "hate"
+  },
+  {
+   "front": "miedo",
+   "back": "fear"
+  },
+  {
+   "front": "alegría",
+   "back": "joy"
+  },
+  {
+   "front": "tristeza",
+   "back": "sadness"
+  },
+  {
+   "front": "esperanza",
+   "back": "hope"
+  },
+  {
+   "front": "sueño",
+   "back": "dream / sleep"
+  },
+  {
+   "front": "deseo",
+   "back": "desire / wish"
+  },
+  {
+   "front": "verdad",
+   "back": "truth"
+  },
+  {
+   "front": "mentira",
+   "back": "lie"
+  },
+  {
+   "front": "secreto",
+   "back": "secret"
+  },
+  {
+   "front": "crimen",
+   "back": "crime"
+  },
+  {
+   "front": "delito",
+   "back": "offense"
+  },
+  {
+   "front": "prisión",
+   "back": "prison"
+  },
+  {
+   "front": "ciencia",
+   "back": "science"
+  },
+  {
+   "front": "arte",
+   "back": "art"
+  },
+  {
+   "front": "música",
+   "back": "music"
+  },
+  {
+   "front": "canción",
+   "back": "song"
+  },
+  {
+   "front": "baile",
+   "back": "dance"
+  },
+  {
+   "front": "cine",
+   "back": "cinema"
+  },
+  {
+   "front": "película",
+   "back": "movie"
+  },
+  {
+   "front": "teatro",
+   "back": "theater"
+  },
+  {
+   "front": "pintura",
+   "back": "painting"
+  },
+  {
+   "front": "literatura",
+   "back": "literature"
+  },
+  {
+   "front": "libro",
+   "back": "book"
+  },
+  {
+   "front": "página",
+   "back": "page"
+  },
+  {
+   "front": "palabra",
+   "back": "word"
+  },
+  {
+   "front": "frase",
+   "back": "sentence"
+  },
+  {
+   "front": "idioma",
+   "back": "language"
+  },
+  {
+   "front": "lengua",
+   "back": "tongue / language"
+  },
+  {
+   "front": "nombre",
+   "back": "name"
+  },
+  {
+   "front": "número",
+   "back": "number"
+  },
+  {
+   "front": "letra",
+   "back": "letter / lyric"
+  },
+  {
+   "front": "carta",
+   "back": "letter / card"
+  },
+  {
+   "front": "mensaje",
+   "back": "message"
+  },
+  {
+   "front": "noticia",
+   "back": "news item"
+  },
+  {
+   "front": "periódico",
+   "back": "newspaper"
+  },
+  {
+   "front": "revista",
+   "back": "magazine"
+  },
+  {
+   "front": "texto",
+   "back": "text"
+  },
+  {
+   "front": "cuento",
+   "back": "story / tale"
+  },
+  {
+   "front": "poema",
+   "back": "poem"
+  },
+  {
+   "front": "juego",
+   "back": "game"
+  },
+  {
+   "front": "deporte",
+   "back": "sport"
+  },
+  {
+   "front": "fútbol",
+   "back": "soccer"
+  },
+  {
+   "front": "equipo",
+   "back": "team"
+  },
+  {
+   "front": "jugador",
+   "back": "player"
+  },
+  {
+   "front": "gol",
+   "back": "goal"
+  },
+  {
+   "front": "fiesta",
+   "back": "party"
+  },
+  {
+   "front": "regalo",
+   "back": "gift"
+  },
+  {
+   "front": "vacaciones",
+   "back": "vacation"
+  },
+  {
+   "front": "paseo",
+   "back": "walk / stroll"
+  },
+  {
+   "front": "foto",
+   "back": "photo"
+  },
+  {
+   "front": "televisión",
+   "back": "television"
+  },
+  {
+   "front": "radio",
+   "back": "radio"
+  },
+  {
+   "front": "teléfono",
+   "back": "telephone"
+  },
+  {
+   "front": "móvil",
+   "back": "mobile phone"
+  },
+  {
+   "front": "computadora",
+   "back": "computer"
+  },
+  {
+   "front": "ordenador",
+   "back": "computer"
+  },
+  {
+   "front": "internet",
+   "back": "internet"
+  },
+  {
+   "front": "correo",
+   "back": "mail"
+  },
+  {
+   "front": "pantalla",
+   "back": "screen"
+  },
+  {
+   "front": "máquina",
+   "back": "machine"
+  },
+  {
+   "front": "herramienta",
+   "back": "tool"
+  },
+  {
+   "front": "llave",
+   "back": "key"
+  },
+  {
+   "front": "papel",
+   "back": "paper"
+  },
+  {
+   "front": "lápiz",
+   "back": "pencil"
+  },
+  {
+   "front": "bolígrafo",
+   "back": "pen"
+  },
+  {
+   "front": "bolsa",
+   "back": "bag"
+  },
+  {
+   "front": "caja",
+   "back": "box"
+  },
+  {
+   "front": "maleta",
+   "back": "suitcase"
+  },
+  {
+   "front": "reloj",
+   "back": "clock / watch"
+  },
+  {
+   "front": "cuchillo",
+   "back": "knife"
+  },
+  {
+   "front": "tenedor",
+   "back": "fork"
+  },
+  {
+   "front": "cuchara",
+   "back": "spoon"
+  },
+  {
+   "front": "plato",
+   "back": "plate / dish"
+  },
+  {
+   "front": "vaso",
+   "back": "glass"
+  },
+  {
+   "front": "taza",
+   "back": "cup"
+  },
+  {
+   "front": "botella",
+   "back": "bottle"
+  },
+  {
+   "front": "ropa",
+   "back": "clothes"
+  },
+  {
+   "front": "camisa",
+   "back": "shirt"
+  },
+  {
+   "front": "pantalón",
+   "back": "pants"
+  },
+  {
+   "front": "falda",
+   "back": "skirt"
+  },
+  {
+   "front": "vestido",
+   "back": "dress"
+  },
+  {
+   "front": "zapato",
+   "back": "shoe"
+  },
+  {
+   "front": "sombrero",
+   "back": "hat"
+  },
+  {
+   "front": "abrigo",
+   "back": "coat"
+  },
+  {
+   "front": "calcetín",
+   "back": "sock"
+  },
+  {
+   "front": "gafas",
+   "back": "glasses"
+  },
+  {
+   "front": "anillo",
+   "back": "ring"
+  },
+  {
+   "front": "luz",
+   "back": "light"
+  },
+  {
+   "front": "sombra",
+   "back": "shadow"
+  },
+  {
+   "front": "color",
+   "back": "color"
+  },
+  {
+   "front": "sonido",
+   "back": "sound"
+  },
+  {
+   "front": "ruido",
+   "back": "noise"
+  },
+  {
+   "front": "voz",
+   "back": "voice"
+  },
+  {
+   "front": "silencio",
+   "back": "silence"
+  },
+  {
+   "front": "olor",
+   "back": "smell"
+  },
+  {
+   "front": "sabor",
+   "back": "taste"
+  },
+  {
+   "front": "tamaño",
+   "back": "size"
+  },
+  {
+   "front": "peso",
+   "back": "weight"
+  },
+  {
+   "front": "altura",
+   "back": "height"
+  },
+  {
+   "front": "línea",
+   "back": "line"
+  },
+  {
+   "front": "punto",
+   "back": "point"
+  },
+  {
+   "front": "círculo",
+   "back": "circle"
+  },
+  {
+   "front": "nivel",
+   "back": "level"
+  },
+  {
+   "front": "grupo",
+   "back": "group"
+  },
+  {
+   "front": "clase",
+   "back": "class"
+  },
+  {
+   "front": "tipo",
+   "back": "type"
+  },
+  {
+   "front": "modo",
+   "back": "manner / mode"
+  },
+  {
+   "front": "manera",
+   "back": "way / manner"
+  },
+  {
+   "front": "orden",
+   "back": "order"
+  },
+  {
+   "front": "lugar",
+   "back": "place"
+  },
+  {
+   "front": "sitio",
+   "back": "site / place"
+  },
+  {
+   "front": "espacio",
+   "back": "space"
+  },
+  {
+   "front": "zona",
+   "back": "zone"
+  },
+  {
+   "front": "región",
+   "back": "region"
+  },
+  {
+   "front": "área",
+   "back": "area"
+  },
+  {
+   "front": "veces",
+   "back": "times"
+  },
+  {
+   "front": "cuestión",
+   "back": "matter / question"
+  },
+  {
+   "front": "tema",
+   "back": "topic"
+  },
+  {
+   "front": "asunto",
+   "back": "matter / affair"
+  },
+  {
+   "front": "hecho",
+   "back": "fact"
+  },
+  {
+   "front": "dato",
+   "back": "data / fact"
+  },
+  {
+   "front": "ejemplo",
+   "back": "example"
+  },
+  {
+   "front": "experiencia",
+   "back": "experience"
+  },
+  {
+   "front": "situación",
+   "back": "situation"
+  },
+  {
+   "front": "condición",
+   "back": "condition"
+  },
+  {
+   "front": "posibilidad",
+   "back": "possibility"
+  },
+  {
+   "front": "oportunidad",
+   "back": "opportunity"
+  },
+  {
+   "front": "necesidad",
+   "back": "need"
+  },
+  {
+   "front": "interés",
+   "back": "interest"
+  },
+  {
+   "front": "atención",
+   "back": "attention"
+  },
+  {
+   "front": "cuidado",
+   "back": "care / careful"
+  },
+  {
+   "front": "éxito",
+   "back": "success"
+  },
+  {
+   "front": "fracaso",
+   "back": "failure"
+  },
+  {
+   "front": "error",
+   "back": "mistake"
+  },
+  {
+   "front": "suerte",
+   "back": "luck"
+  },
+  {
+   "front": "riesgo",
+   "back": "risk"
+  },
+  {
+   "front": "peligro",
+   "back": "danger"
+  },
+  {
+   "front": "ayuda",
+   "back": "help"
+  },
+  {
+   "front": "apoyo",
+   "back": "support"
+  },
+  {
+   "front": "esfuerzo",
+   "back": "effort"
+  },
+  {
+   "front": "decisión",
+   "back": "decision"
+  },
+  {
+   "front": "acuerdo",
+   "back": "agreement"
+  },
+  {
+   "front": "relación",
+   "back": "relationship"
+  },
+  {
+   "front": "conversación",
+   "back": "conversation"
+  },
+  {
+   "front": "discusión",
+   "back": "discussion"
+  },
+  {
+   "front": "opinión",
+   "back": "opinion"
+  },
+  {
+   "front": "pensamiento",
+   "back": "thought"
+  },
+  {
+   "front": "conocimiento",
+   "back": "knowledge"
+  },
+  {
+   "front": "educación",
+   "back": "education"
+  },
+  {
+   "front": "lección",
+   "back": "lesson"
+  },
+  {
+   "front": "examen",
+   "back": "exam"
+  },
+  {
+   "front": "tarea",
+   "back": "task / homework"
+  },
+  {
+   "front": "aprender",
+   "back": "to learn"
+  },
+  {
+   "front": "enseñar",
+   "back": "to teach"
+  },
+  {
+   "front": "practicar",
+   "back": "to practice"
+  },
+  {
+   "front": "repetir",
+   "back": "to repeat"
+  },
+  {
+   "front": "llamarse",
+   "back": "to be called"
+  },
+  {
+   "front": "sentirse",
+   "back": "to feel (oneself)"
+  },
+  {
+   "front": "quedarse",
+   "back": "to stay"
+  },
+  {
+   "front": "irse",
+   "back": "to go away"
+  },
+  {
+   "front": "ponerse",
+   "back": "to put on / to become"
+  },
+  {
+   "front": "acordarse",
+   "back": "to remember"
+  },
+  {
+   "front": "casarse",
+   "back": "to get married"
+  },
+  {
+   "front": "reunirse",
+   "back": "to meet up"
+  },
+  {
+   "front": "quitar",
+   "back": "to remove"
+  },
+  {
+   "front": "meter",
+   "back": "to put in"
+  },
+  {
+   "front": "tirar",
+   "back": "to throw"
+  },
+  {
+   "front": "coger",
+   "back": "to catch / to grab"
+  },
+  {
+   "front": "guardar",
+   "back": "to keep / to save"
+  },
+  {
+   "front": "ocupar",
+   "back": "to occupy"
+  },
+  {
+   "front": "faltar",
+   "back": "to lack / to be missing"
+  },
+  {
+   "front": "importar",
+   "back": "to matter"
+  },
+  {
+   "front": "doler",
+   "back": "to hurt"
+  },
+  {
+   "front": "encantar",
+   "back": "to love / to delight"
+  },
+  {
+   "front": "odiar",
+   "back": "to hate"
+  },
+  {
+   "front": "temer",
+   "back": "to fear"
+  },
+  {
+   "front": "soñar",
+   "back": "to dream"
+  },
+  {
+   "front": "volar",
+   "back": "to fly"
+  },
+  {
+   "front": "nadar",
+   "back": "to swim"
+  },
+  {
+   "front": "subida",
+   "back": "climb"
+  },
+  {
+   "front": "bajada",
+   "back": "descent"
+  },
+  {
+   "front": "cuadro",
+   "back": "painting / square"
+  },
+  {
+   "front": "rincón",
+   "back": "corner"
+  },
+  {
+   "front": "fondo",
+   "back": "bottom / back"
+  },
+  {
+   "front": "frente",
+   "back": "front / forehead"
+  },
+  {
+   "front": "vista",
+   "back": "view"
+  },
+  {
+   "front": "mitad",
+   "back": "half"
+  },
+  {
+   "front": "resto",
+   "back": "rest"
+  },
+  {
+   "front": "trozo",
+   "back": "piece"
+  },
+  {
+   "front": "cantidad",
+   "back": "quantity"
+  },
+  {
+   "front": "metro",
+   "back": "meter / subway"
+  },
+  {
+   "front": "kilómetro",
+   "back": "kilometer"
+  },
+  {
+   "front": "cuyo",
+   "back": "whose"
+  },
+  {
+   "front": "quizá",
+   "back": "maybe"
+  },
+  {
+   "front": "menudo",
+   "back": "small / minute"
+  }
+ ]
+}

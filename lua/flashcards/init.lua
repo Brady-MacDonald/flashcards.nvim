@@ -24,4 +24,21 @@ function M.start(name)
   require("flashcards.ui").open(session)
 end
 
+---Start a conjugation drill. args: any mix of tense names and verbs.
+function M.conjugate(args)
+  local conj = require("flashcards.conjugate")
+  local tenses, verbs = {}, {}
+  for _, a in ipairs(args or {}) do
+    if vim.tbl_contains(conj.tenses, a) then
+      table.insert(tenses, a)
+    elseif conj.verbs[a] then
+      table.insert(verbs, a)
+    else
+      return vim.notify("flashcards: unknown tense or verb: " .. a, vim.log.levels.ERROR)
+    end
+  end
+  local session = require("flashcards.session").new(conj.deck(tenses, verbs), config.options.shuffle)
+  require("flashcards.ui").open(session)
+end
+
 return M

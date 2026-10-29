@@ -6,6 +6,8 @@ Simple floating-window flashcards for Neovim. Shows the front of a card; press a
 
 `:Flashcards [deck]` — deck is a name in `decks_dir` (without `.json`) or an absolute path.
 
+`:FlashcardsConjugate [tense|verb ...]` — Spanish verb conjugation drill, generated on the fly. Tenses: `present`, `preterite`, `imperfect`, `future`, `conditional`. Examples: `:FlashcardsConjugate preterite`, `:FlashcardsConjugate tener ir ser present`. No arguments drills every verb in every tense. Verbs and irregulars live in `lua/flashcards/conjugate.lua`.
+
 ## Deck format
 
 ```json
